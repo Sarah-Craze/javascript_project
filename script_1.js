@@ -1,2 +1,2 @@
-let name = prompt("Quel est ton nom ?")
-console.log('Bonjour ${name}')
+var prenom = prompt("Entrez votre prénom :");
+console.log("Bonjour, " + prenom + " !");
